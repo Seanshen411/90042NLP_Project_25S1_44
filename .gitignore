@@ -1,2 +1,4 @@
 "data/evidence.json" 
 data/evidence.json
+evidences_vectors.npz
+evidences_text_indices.json
